@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: JAVA-STUDY
+  profiles:
+    active: @activatedProperties@
