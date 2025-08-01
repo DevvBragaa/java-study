@@ -1,0 +1,33 @@
+# Arquivos e pastas específicos do IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Arquivos e pastas específicos do Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# Arquivos e pastas específicos do STS
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# Arquivos e pastas específicos do NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# Arquivos e pastas específicos do VS Code
+.vscode/
